@@ -3,5 +3,8 @@ Package.describe({
 });
 
 Package.on_use(function (api){
-        api.add_files('load.js', 'client');
+        api.use('jquery', 'client');
+        api.use('jquery.cookie', 'client');
+        api.add_files('lib/cookiecuttr.css', 'client');
+        api.add_files('lib/jquery.cookiecuttr.js', 'client');
 });
