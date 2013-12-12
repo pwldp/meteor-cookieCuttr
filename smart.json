@@ -1,0 +1,8 @@
+{
+        "name": "cookieCuttr",
+        "description": "cookieCuttr packaged for Meteor",
+        "homepage": "https://github.com/pwldp/meteor-cookieCuttr",
+        "author": "Dariusz Pawlak",
+        "version": "0.0.1",
+        "git": "https://github.com/pwldp/meteor-cookieCuttr.git"
+}
