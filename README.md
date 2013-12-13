@@ -15,3 +15,5 @@ meteor-cookieCuttr
 3. `mrt add cookieCuttr`
 
 
+[![endorse](https://api.coderwall.com/pwldp/endorsecount.png)](https://coderwall.com/pwldp)
+
