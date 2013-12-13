@@ -3,6 +3,6 @@
         "description": "cookieCuttr packaged for Meteor",
         "homepage": "https://github.com/pwldp/meteor-cookieCuttr",
         "author": "Dariusz Pawlak",
-        "version": "0.0.1",
+        "version": "0.0.10",
         "git": "https://github.com/pwldp/meteor-cookieCuttr.git"
 }
