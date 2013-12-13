@@ -4,7 +4,7 @@ Package.describe({
 
 Package.on_use(function (api){
         api.use('jquery', 'client');
-        api.use('jquery.cookie', 'client');
+        api.use('jquery-cookie', 'client');
         api.add_files('lib/cookiecuttr.css', 'client');
         api.add_files('lib/jquery.cookiecuttr.js', 'client');
         api.add_files('load_cookieCuttr.js', 'client');
