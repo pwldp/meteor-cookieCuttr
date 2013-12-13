@@ -1,5 +1,5 @@
 if (Meteor.isClient) {
-  Meteor.startup(function () {
-    $.cookieCuttr();
-  });
+    Meteor.startup(function () {
+	$.cookieCuttr();
+    });
 }
