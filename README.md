@@ -17,3 +17,7 @@ meteor-cookieCuttr
 
 [![endorse](https://api.coderwall.com/pwldp/endorsecount.png)](https://coderwall.com/pwldp)
 
+
+
+[![Bitdeli Badge](https://d2weczhvl823v0.cloudfront.net/pwldp/meteor-cookiecuttr/trend.png)](https://bitdeli.com/free "Bitdeli Badge")
+
